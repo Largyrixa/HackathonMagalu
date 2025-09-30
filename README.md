@@ -47,12 +47,7 @@ Para entregar um protótipo funcional no curto prazo do hackathon, optamos por u
 
   3. **Descrição:** Uma interface de usuário reativa e dinâmica, permitindo uma experiência de uso fluida e rápida, focada em design responsivo para o task.er.
 
-* Backend (Backend-as-a-Service):
-  1. **Serviço:** [Supabase]
-
-  2. **Recursos Utilizados:** [Autenticação de Usuários, Banco de Dados PostgreSQL em Tempo Real, Armazenamento de Arquivos]
-
-  3. **Descrição:** Utilizamos um BaaS para acelerar o desenvolvimento, abstraindo a complexidade da gestão de banco de dados, armazenamento das provas (imagens/PDFs) e autenticação.
+     
 
 * Infraestrutura e Hospedagem (Magalu Cloud):
   1. **Serviço Utilizado:** [VM (Máquina Virtual) - Magalu Cloud]
@@ -65,7 +60,7 @@ Durante o evento, focamos em desenvolver o ciclo principal do nosso aplicativo:
 
   * Cadastro e Login de Usuarios
   * Feed para Submição de Tarefas("Logs" de Estudo)
-  * Sistema de Avaliações de tarefas (nota de 0-100)
+  * Sistema de Avaliações de tarefas (nota de 0-5)
   * Ranking Semanal
 
 ## 🔗 Links do Projeto
