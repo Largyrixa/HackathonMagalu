@@ -52,7 +52,7 @@ Para entregar um protótipo funcional no curto prazo do hackathon, optamos por u
 * Infraestrutura e Hospedagem (Magalu Cloud):
   1. **Serviço Utilizado:** VM (Máquina Virtual) - Magalu Cloud
 
-  2. **Descrição:** A aplicação frontend (build estático do React) foi hospedada em uma Máquina Virtual (VM) da Magalu Cloud. Utilizamos um servidor web (como Nginx ou Node.js) dentro da VM   para servir o aplicativo, garantindo controle total sobre o ambiente de execução e a distribuição do task.er.
+  2. **Descrição:** Para maximizar a velocidade de desenvolvimento, optamos por rodar a aplicação diretamente com o servidor de desenvolvimento do Vite/framework, em vez de gerar uma build de produção. Para acessar o site, clique **[AQUI](http://201.23.72.225:5173)**.
  
 ## ✅ Funcionalidades
 
@@ -71,8 +71,6 @@ Durante o evento, focamos em desenvolver o ciclo principal do nosso aplicativo:
   * Dashboard Pessoal com gráficos de desempenho e progresso ao longo do tempo.
 
 ## 🔗 Links do Projeto
+**[Acesse o site AQUI!](http://201.23.72.225:5173)**
 
-
-  
-
-
+**[Acesse o vídeo do projeto AQUI!]()**
