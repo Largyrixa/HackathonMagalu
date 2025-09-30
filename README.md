@@ -22,7 +22,7 @@ A jornada de estudos de milhares de estudantes brasileiros é constantemente imp
 
 * **🧠 Falta de Foco e Motivação:** A ausência de metas claras e reconhecimento externo leva à perda de interesse.
 * **⏳ Procrastinação Crônica:** A dificuldade em iniciar e manter uma rotina consistente de estudos.
-* ** Solitude Acadêmica:** A falta de interação social no processo de aprendizagem, especialmente no contexto remoto.
+* **Solitude Acadêmica:** A falta de interação social no processo de aprendizagem, especialmente no contexto remoto.
 
 É necessária uma solução moderna, alinhada aos interesses do público jovem e que ataque diretamente essas dores.
 
@@ -58,3 +58,14 @@ Para entregar um protótipo funcional no curto prazo do hackathon, optamos por u
   1. **Serviço Utilizado:** [VM (Máquina Virtual) - Magalu Cloud]
 
   2. **Descrição:** A aplicação frontend (build estático do React) foi hospedada em uma Máquina Virtual (VM) da Magalu Cloud. Utilizamos um servidor web (como Nginx ou Node.js) dentro da VM   para servir o aplicativo, garantindo controle total sobre o ambiente de execução e a distribuição do task.er.
+ 
+## ✅ Funcionalidades
+
+Durante o evento, focamos em desenvolver o ciclo principal do nosso aplicativo:
+
+  * Cadastro e Login de Usuarios
+  * Feed para Submição de Tarefas("Logs" de Estudo)
+  * Sistema de Avaliações de tarefas (nota de 0-100)
+  * Ranking Semanal
+
+
