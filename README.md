@@ -37,3 +37,25 @@ Criamos uma plataforma interativa que quebra o ciclo da desmotivação com um **
 3.  **Competir e Evoluir:** As avaliações são convertidas em pontos que alimentam um ranking em tempo real. Isso cria uma competição saudável e fornece uma métrica clara de progresso e desenvolvimento.
 
 > O resultado é um ambiente que transforma o estudo, antes solitário, em uma jornada interativa, mensurável e, acima de tudo, motivadora.
+
+## 🛠️ Arquitetura e Tecnologias Aplicadas
+Para entregar um protótipo funcional no curto prazo do hackathon, optamos por uma arquitetura moderna e ágil:
+
+* Frontend:
+* ** Framework: React.js
+
+* ** Build Tool: [Vite]
+
+* ** Descrição: Uma interface de usuário reativa e dinâmica, permitindo uma experiência de uso fluida e rápida, focada em design responsivo para o task.er.
+
+* Backend (Backend-as-a-Service):
+* ** Serviço: [Supabase]
+
+* **Recursos Utilizados: [Autenticação de Usuários, Banco de Dados PostgreSQL em Tempo Real, Armazenamento de Arquivos]
+
+* ** Descrição: Utilizamos um BaaS para acelerar o desenvolvimento, abstraindo a complexidade da gestão de banco de dados, armazenamento das provas (imagens/PDFs) e autenticação.
+
+* Infraestrutura e Hospedagem (Magalu Cloud):
+* ** Serviço Utilizado: [VM (Máquina Virtual) - Magalu Cloud]
+
+* ** Descrição: A aplicação frontend (build estático do React) foi hospedada em uma Máquina Virtual (VM) da Magalu Cloud. Utilizamos um servidor web (como Nginx ou Node.js) dentro da VM para servir o aplicativo, garantindo controle total sobre o ambiente de execução e a distribuição do task.er.
