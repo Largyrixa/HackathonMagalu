@@ -1,4 +1,6 @@
 import { BsStar, BsStarFill } from "react-icons/bs";
+import foto1 from "../assets/Foto1.jpg"
+import foto2 from "../assets/Foto2.jpg"
 
 // 1. Definindo a interface para os dados de um envio
 interface Submission {
@@ -15,19 +17,21 @@ interface Submission {
 const submissionData: Submission[] = [
   {
     id: 1,
-    taskTitle: 'Morning Run - 5km',
+    taskTitle: "Study Session - Biotecnologia",
     userName: 'Sarah Johnson',
     userAvatarUrl: 'https://i.pravatar.cc/150?u=sarah', // Usando um placeholder
     timeAgo: '2 hours ago',
     rating: 4.5,
+    taskPhotoUrl: foto1,
   },
   {
     id: 2,
-    taskTitle: 'Study Session - Math',
+    taskTitle: 'Study Session - Matemática',
     userName: 'Mike Chen',
     userAvatarUrl: 'https://i.pravatar.cc/150?u=mike', // Usando um placeholder
     timeAgo: '4 hours ago',
     rating: 3.8,
+    taskPhotoUrl: foto2,
   },
 ];
 
@@ -70,8 +74,12 @@ export default function RecentSubmissions() {
             </div>
 
             {/* Foto da Tarefa */}
-            <div className="mt-3 ml-16 p-4 h-40 bg-gray-200 rounded-lg flex items-center justify-center">
-              <span className="text-gray-500">Task Photo</span>
+            <div className="mt-3 ml-16 w-[calc(100%-4rem)] h-40 bg-gray-200 rounded-lg overflow-hidden relative">
+              <img
+                src={submission.taskPhotoUrl}
+                alt={`${submission.taskTitle} photo`}
+                className="absolute inset-0 w-full h-full object-cover" 
+              />
             </div>
           </div>
         ))}

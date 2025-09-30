@@ -10,8 +10,8 @@ interface Group {
 }
 
 const groupData: Group[] = [
-  { id: 1, name: 'Fitness Squad', members: 8, icon: <BsPeopleFill /> },
-  { id: 2, name: 'Study Group', members: 5, icon: <BsBookFill /> },
+  { id: 1, name: 'Study Group', members: 8, icon: <BsPeopleFill /> },
+  { id: 2, name: 'Book Club', members: 5, icon: <BsBookFill /> },
   { id: 3, name: 'Work Team', members: 12, icon: <BsBriefcaseFill /> },
 ];
 
