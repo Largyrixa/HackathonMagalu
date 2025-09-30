@@ -55,6 +55,6 @@ Para entregar um protótipo funcional no curto prazo do hackathon, optamos por u
   3. **Descrição:** Utilizamos um BaaS para acelerar o desenvolvimento, abstraindo a complexidade da gestão de banco de dados, armazenamento das provas (imagens/PDFs) e autenticação.
 
 * Infraestrutura e Hospedagem (Magalu Cloud):
-1. **Serviço Utilizado:** [VM (Máquina Virtual) - Magalu Cloud]
+  1. **Serviço Utilizado:** [VM (Máquina Virtual) - Magalu Cloud]
 
-2. **Descrição:** A aplicação frontend (build estático do React) foi hospedada em uma Máquina Virtual (VM) da Magalu Cloud. Utilizamos um servidor web (como Nginx ou Node.js) dentro da VM para servir o aplicativo, garantindo controle total sobre o ambiente de execução e a distribuição do task.er.
+  2. **Descrição:** A aplicação frontend (build estático do React) foi hospedada em uma Máquina Virtual (VM) da Magalu Cloud. Utilizamos um servidor web (como Nginx ou Node.js) dentro da VM   para servir o aplicativo, garantindo controle total sobre o ambiente de execução e a distribuição do task.er.
