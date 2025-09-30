@@ -69,7 +69,6 @@ Durante o evento, focamos em desenvolver o ciclo principal do nosso aplicativo:
   * Sistemas de notificações para tarefas atrasadas e novas tarefas
   * Gamificação Avançada: Conquistas, medalhas (badges) e streaks.
   * Dashboard Pessoal com gráficos de desempenho e progresso ao longo do tempo.
-  * 
 
 ## 🔗 Links do Projeto
 
