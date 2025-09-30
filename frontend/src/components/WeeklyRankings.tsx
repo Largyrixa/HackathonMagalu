@@ -26,9 +26,9 @@ export default function WeeklyRankings() {
           <h2 className="text-xl font-bold text-gray-800">Weekly Rankings</h2>
           <p className="text-sm text-gray-500 mt-1">Week of January 20-26, 2025</p>
         </div>
-        <select value={"Fitness Squad"} className="border border-gray-300 text-gray-500 rounded-md p-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500">
-          <option>Fitness Squad</option>
+        <select value={"Study Group"} className="border border-gray-300 text-gray-500 rounded-md p-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500">
           <option>Study Group</option>
+          <option>Book Club</option>
           <option>Work Team</option>
         </select>
       </div>
