@@ -68,4 +68,9 @@ Durante o evento, focamos em desenvolver o ciclo principal do nosso aplicativo:
   * Sistema de Avaliações de tarefas (nota de 0-100)
   * Ranking Semanal
 
+## 🔗 Links do Projeto
+
+
+  
+
 
