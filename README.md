@@ -7,7 +7,7 @@ Dentre os estudantes escolares e universitários brasileiros, o foco e a discipl
 Fatores como este prejudicam diretamente o desempenho acadêmico destes estudantes, criando a necessidade de uma solução atual e condizente com os gostos desta faixa etária, e para isto propomos uma solução.
 
 
- ## A Solução
+ ## A Solução: task.er
 
 Criamos uma solução inovadora para superar esses desafios! Desenvolvemos uma plataforma interativa onde o usuário publica seu desafio de estudo. Em seguida, a comunidade – os demais participantes – entra em ação, examinando e julgando a tarefa, fornecendo feedback construtivo e uma nota.
 
