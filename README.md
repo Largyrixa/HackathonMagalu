@@ -43,14 +43,14 @@ Para entregar um protótipo funcional no curto prazo do hackathon, optamos por u
 
 * Frontend:
   1. **Framework:** React.js
-  2. **Build Tool:** [Vite]
+  2. **Build Tool:** Vite
 
   3. **Descrição:** Uma interface de usuário reativa e dinâmica, permitindo uma experiência de uso fluida e rápida, focada em design responsivo para o task.er.
 
      
 
 * Infraestrutura e Hospedagem (Magalu Cloud):
-  1. **Serviço Utilizado:** [VM (Máquina Virtual) - Magalu Cloud]
+  1. **Serviço Utilizado:** VM (Máquina Virtual) - Magalu Cloud
 
   2. **Descrição:** A aplicação frontend (build estático do React) foi hospedada em uma Máquina Virtual (VM) da Magalu Cloud. Utilizamos um servidor web (como Nginx ou Node.js) dentro da VM   para servir o aplicativo, garantindo controle total sobre o ambiente de execução e a distribuição do task.er.
  
@@ -62,6 +62,14 @@ Durante o evento, focamos em desenvolver o ciclo principal do nosso aplicativo:
   * Feed para Submição de Tarefas("Logs" de Estudo)
   * Sistema de Avaliações de tarefas (nota de 0-5)
   * Ranking Semanal
+
+## 🔮 Próximos Passos (Evolução do Projeto)
+
+  * Criação do backend (integração com o supabase)
+  * Sistemas de notificações para tarefas atrasadas e novas tarefas
+  * Gamificação Avançada: Conquistas, medalhas (badges) e streaks.
+  * Dashboard Pessoal com gráficos de desempenho e progresso ao longo do tempo.
+  * 
 
 ## 🔗 Links do Projeto
 
