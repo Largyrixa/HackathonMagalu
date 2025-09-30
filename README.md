@@ -42,17 +42,17 @@ Criamos uma plataforma interativa que quebra o ciclo da desmotivação com um **
 Para entregar um protótipo funcional no curto prazo do hackathon, optamos por uma arquitetura moderna e ágil:
 
 * Frontend:
-1. **Framework:** React.js
-2. **Build Tool:** [Vite]
+  1. **Framework:** React.js
+  2. **Build Tool:** [Vite]
 
-3. **Descrição:** Uma interface de usuário reativa e dinâmica, permitindo uma experiência de uso fluida e rápida, focada em design responsivo para o task.er.
+  3. **Descrição:** Uma interface de usuário reativa e dinâmica, permitindo uma experiência de uso fluida e rápida, focada em design responsivo para o task.er.
 
 * Backend (Backend-as-a-Service):
-1. **Serviço:** [Supabase]
+  1. **Serviço:** [Supabase]
 
-2. **Recursos Utilizados:** [Autenticação de Usuários, Banco de Dados PostgreSQL em Tempo Real, Armazenamento de Arquivos]
+  2. **Recursos Utilizados:** [Autenticação de Usuários, Banco de Dados PostgreSQL em Tempo Real, Armazenamento de Arquivos]
 
-3.**Descrição:** Utilizamos um BaaS para acelerar o desenvolvimento, abstraindo a complexidade da gestão de banco de dados, armazenamento das provas (imagens/PDFs) e autenticação.
+  3. **Descrição:** Utilizamos um BaaS para acelerar o desenvolvimento, abstraindo a complexidade da gestão de banco de dados, armazenamento das provas (imagens/PDFs) e autenticação.
 
 * Infraestrutura e Hospedagem (Magalu Cloud):
 1. **Serviço Utilizado:** [VM (Máquina Virtual) - Magalu Cloud]
