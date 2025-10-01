@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>task.er 🚀</h1>
+  <h1>task.er</h1>
   <strong>Transformando estudos em conquistas através da gamificação e prova social.</strong>
 </div>
 <br>
@@ -73,4 +73,4 @@ Durante o evento, focamos em desenvolver o ciclo principal do nosso aplicativo:
 ## 🔗 Links do Projeto
 **[Acesse o site AQUI!](http://201.23.72.225:5173)**
 
-**[Acesse o vídeo do projeto AQUI!]()**
+**[Acesse o vídeo do projeto AQUI!](https://drive.google.com/drive/folders/1slRDHk4F3NW2k9fPe86jW3RzenhjVMd5?usp=drive_link)**
